@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component tests Matches the snapshot 1`] = `
+<div
+  className="App css-1azakc"
+>
+  <nav
+    className="css-867qb3"
+  >
+    <img
+      className="css-16ouyr5"
+      src="atg.svg"
+    />
+  </nav>
+  <div
+    className="container"
+  >
+    <div
+      className="input css-1f20m0c"
+    >
+      <h2>
+        Välj spelform
+      </h2>
+      <select
+        className="css-18wld8k"
+        onChange={[Function]}
+      >
+        <option
+          value=""
+        >
+          Välj spel
+        </option>
+        <option
+          value="V75"
+        >
+          V75
+        </option>
+        <option
+          value="V65"
+        >
+          V65
+        </option>
+        <option
+          value="V64"
+        >
+          V64
+        </option>
+        <option
+          value="V4"
+        >
+          V4
+        </option>
+      </select>
+    </div>
+  </div>
+</div>
+`;
